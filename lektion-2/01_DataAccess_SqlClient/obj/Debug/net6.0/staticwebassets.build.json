@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eBYa3mKPfSOAUTv/PvvLeLBGSJFFHKxu3WO+jgyMmnc=",
+  "Source": "01_DataAccess_SqlClient",
+  "BasePath": "_content/01_DataAccess_SqlClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

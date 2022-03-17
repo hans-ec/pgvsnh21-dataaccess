@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IybpP0Md9YH5YZDgoLTsnEk01wSxCodEDnVY61QWbeY=",
+  "Source": "02_DataAccess_Dapper",
+  "BasePath": "_content/02_DataAccess_Dapper",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

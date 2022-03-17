@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tGR2wS3W0zHJFwmQQCwSSnOhhREbroC4QFQT5Rjw5lY=",
+  "Source": "04_DataAccess_EntityFrameworkCore.CodeFirst",
+  "BasePath": "_content/04_DataAccess_EntityFrameworkCore.CodeFirst",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
