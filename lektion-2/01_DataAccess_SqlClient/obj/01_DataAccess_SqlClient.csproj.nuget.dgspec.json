@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\lektion-2\\01_DataAccess_SqlClient\\01_DataAccess_SqlClient.csproj": {}
+    "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\lektion-2\\01_DataAccess_SqlClient\\01_DataAccess_SqlClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\lektion-2\\01_DataAccess_SqlClient\\01_DataAccess_SqlClient.csproj": {
+    "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\lektion-2\\01_DataAccess_SqlClient\\01_DataAccess_SqlClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\lektion-2\\01_DataAccess_SqlClient\\01_DataAccess_SqlClient.csproj",
+        "projectUniqueName": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\lektion-2\\01_DataAccess_SqlClient\\01_DataAccess_SqlClient.csproj",
         "projectName": "01_DataAccess_SqlClient",
-        "projectPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\lektion-2\\01_DataAccess_SqlClient\\01_DataAccess_SqlClient.csproj",
+        "projectPath": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\lektion-2\\01_DataAccess_SqlClient\\01_DataAccess_SqlClient.csproj",
         "packagesPath": "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\lektion-2\\01_DataAccess_SqlClient\\obj\\",
+        "outputPath": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\lektion-2\\01_DataAccess_SqlClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

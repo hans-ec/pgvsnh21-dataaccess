@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3NvylrB0A+0w4x4Dou0prZc3MvgNAcnQxaWae4lPbMIIR6mEm5G+MMiUnqqWN8Q5f+3NiikCRJweNYCkLSdlYA==",
+  "dgSpecHash": "AWlGfzFRBxMexKZwQe9wQxMG9pwLaivSaGtMFrYWs6fu63TpB09FUpc5hqAFTpYJnRdFTjtpIvNrk4oT6Ht98g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\lektion-2\\03_DataAccess_EntityFrameworkCore.DatabaseFirst\\03_DataAccess_EntityFrameworkCore.DatabaseFirst.csproj",
+  "projectFilePath": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\lektion-2\\03_DataAccess_EntityFrameworkCore.DatabaseFirst\\03_DataAccess_EntityFrameworkCore.DatabaseFirst.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

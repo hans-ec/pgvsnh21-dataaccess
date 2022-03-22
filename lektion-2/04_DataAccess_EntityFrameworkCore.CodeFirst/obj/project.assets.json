@@ -9656,11 +9656,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\lektion-2\\04_DataAccess_EntityFrameworkCore.CodeFirst\\04_DataAccess_EntityFrameworkCore.CodeFirst.csproj",
+      "projectUniqueName": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\lektion-2\\04_DataAccess_EntityFrameworkCore.CodeFirst\\04_DataAccess_EntityFrameworkCore.CodeFirst.csproj",
       "projectName": "04_DataAccess_EntityFrameworkCore.CodeFirst",
-      "projectPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\lektion-2\\04_DataAccess_EntityFrameworkCore.CodeFirst\\04_DataAccess_EntityFrameworkCore.CodeFirst.csproj",
+      "projectPath": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\lektion-2\\04_DataAccess_EntityFrameworkCore.CodeFirst\\04_DataAccess_EntityFrameworkCore.CodeFirst.csproj",
       "packagesPath": "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\lektion-2\\04_DataAccess_EntityFrameworkCore.CodeFirst\\obj\\",
+      "outputPath": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\lektion-2\\04_DataAccess_EntityFrameworkCore.CodeFirst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

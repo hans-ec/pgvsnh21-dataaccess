@@ -1,0 +1,7 @@
+Kör dessa kommandon i NPM:
+
+Install-Package Microsoft.EntityFrameworkCore.SqlServer
+Install-Package Microsoft.EntityFrameworkCore.Tools
+
+
+Scaffold-DbContext "ange_din_connectinstring_här" Microsoft.EntityFrameworkCore.SqlServer -Context SqlContext -ContextDir Entities -OutputDir Entities -Force

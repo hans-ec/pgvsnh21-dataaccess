@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_Repetition_SqlClient", "00_Repetition_SqlClient\00_Repetition_SqlClient.csproj", "{1BB64368-A282-486C-A7E5-58AF1DBD0E82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_Repetition_Dapper", "00_Repetition_Dapper\00_Repetition_Dapper.csproj", "{6331EF1E-C5AD-46E5-8250-783EB9BEDF0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_EntityFramework_DatabaseFirst", "01_EntityFramework_DatabaseFirst\01_EntityFramework_DatabaseFirst.csproj", "{845D36C8-1EA0-4D27-BE0E-F403CC3497C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BB64368-A282-486C-A7E5-58AF1DBD0E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB64368-A282-486C-A7E5-58AF1DBD0E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB64368-A282-486C-A7E5-58AF1DBD0E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB64368-A282-486C-A7E5-58AF1DBD0E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6331EF1E-C5AD-46E5-8250-783EB9BEDF0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6331EF1E-C5AD-46E5-8250-783EB9BEDF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6331EF1E-C5AD-46E5-8250-783EB9BEDF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6331EF1E-C5AD-46E5-8250-783EB9BEDF0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845D36C8-1EA0-4D27-BE0E-F403CC3497C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845D36C8-1EA0-4D27-BE0E-F403CC3497C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845D36C8-1EA0-4D27-BE0E-F403CC3497C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845D36C8-1EA0-4D27-BE0E-F403CC3497C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD46EA62-D68E-454E-A4E9-AAC57B82BAC0}
+	EndGlobalSection
+EndGlobal
