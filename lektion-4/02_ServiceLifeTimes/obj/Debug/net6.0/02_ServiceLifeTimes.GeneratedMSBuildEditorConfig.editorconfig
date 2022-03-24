@@ -1,0 +1,68 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _02_ServiceLifeTimes
+build_property.RootNamespace = _02_ServiceLifeTimes
+build_property.ProjectDir = C:\Users\HansMattin-Lassei\Documents\Utbildning\PGVSNH21\lektion-4\02_ServiceLifeTimes\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\HansMattin-Lassei\Documents\Utbildning\PGVSNH21\lektion-4\02_ServiceLifeTimes
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/PGVSNH21/lektion-4/02_ServiceLifeTimes/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/PGVSNH21/lektion-4/02_ServiceLifeTimes/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/PGVSNH21/lektion-4/02_ServiceLifeTimes/Views/Service/Scoped.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxTY29wZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/PGVSNH21/lektion-4/02_ServiceLifeTimes/Views/Service/Singleton.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxTaW5nbGV0b24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/PGVSNH21/lektion-4/02_ServiceLifeTimes/Views/Service/Transient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxUcmFuc2llbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/PGVSNH21/lektion-4/02_ServiceLifeTimes/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/PGVSNH21/lektion-4/02_ServiceLifeTimes/Views/Shared/_ScopedPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TY29wZWRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/PGVSNH21/lektion-4/02_ServiceLifeTimes/Views/Shared/_SingletonPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaW5nbGV0b25QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/PGVSNH21/lektion-4/02_ServiceLifeTimes/Views/Shared/_TransientPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UcmFuc2llbnRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/PGVSNH21/lektion-4/02_ServiceLifeTimes/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/PGVSNH21/lektion-4/02_ServiceLifeTimes/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/PGVSNH21/lektion-4/02_ServiceLifeTimes/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HansMattin-Lassei/Documents/Utbildning/PGVSNH21/lektion-4/02_ServiceLifeTimes/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-j8pm7ol555

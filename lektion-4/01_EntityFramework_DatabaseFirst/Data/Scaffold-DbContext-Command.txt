@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext Name="ConnectionStrings:LocalSql" Microsoft.EntityFrameworkCore.SqlServer -Context "DataContext" -ContextDir "Data" -OutputDir "Data/Entities" -force
