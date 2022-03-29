@@ -1,0 +1,4 @@
+﻿@using _00_Repetition_ServiceLifeTimes.Services
+@inject IProfileManager ProfileManager
+
+<p><strong>From Child Inject:</strong> @ProfileManager.GetProfile().Id</p>

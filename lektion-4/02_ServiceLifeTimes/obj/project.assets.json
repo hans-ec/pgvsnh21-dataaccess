@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\lektion-4\\02_ServiceLifeTimes\\02_ServiceLifeTimes.csproj",
+      "projectUniqueName": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\lektion-4\\02_ServiceLifeTimes\\02_ServiceLifeTimes.csproj",
       "projectName": "02_ServiceLifeTimes",
-      "projectPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\lektion-4\\02_ServiceLifeTimes\\02_ServiceLifeTimes.csproj",
+      "projectPath": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\lektion-4\\02_ServiceLifeTimes\\02_ServiceLifeTimes.csproj",
       "packagesPath": "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\lektion-4\\02_ServiceLifeTimes\\obj\\",
+      "outputPath": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\lektion-4\\02_ServiceLifeTimes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

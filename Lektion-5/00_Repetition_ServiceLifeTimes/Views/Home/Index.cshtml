@@ -1,0 +1,13 @@
+﻿@using _00_Repetition_ServiceLifeTimes.Services
+@model IProfileManager
+@inject IProfileManager ProfileManager
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <p><strong>From Model:</strong> @Model.GetProfile().Id</p>
+    <p><strong>From Parent Inject:</strong> @ProfileManager.GetProfile().Id</p>
+    <partial name="_ChildPartial" />
+</div>

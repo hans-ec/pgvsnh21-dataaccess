@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\lektion-4\\01_EntityFramework_DatabaseFirst\\01_EntityFramework_DatabaseFirst.csproj": {}
+    "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\lektion-4\\01_EntityFramework_DatabaseFirst\\01_EntityFramework_DatabaseFirst.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\lektion-4\\01_EntityFramework_DatabaseFirst\\01_EntityFramework_DatabaseFirst.csproj": {
+    "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\lektion-4\\01_EntityFramework_DatabaseFirst\\01_EntityFramework_DatabaseFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\lektion-4\\01_EntityFramework_DatabaseFirst\\01_EntityFramework_DatabaseFirst.csproj",
+        "projectUniqueName": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\lektion-4\\01_EntityFramework_DatabaseFirst\\01_EntityFramework_DatabaseFirst.csproj",
         "projectName": "01_EntityFramework_DatabaseFirst",
-        "projectPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\lektion-4\\01_EntityFramework_DatabaseFirst\\01_EntityFramework_DatabaseFirst.csproj",
+        "projectPath": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\lektion-4\\01_EntityFramework_DatabaseFirst\\01_EntityFramework_DatabaseFirst.csproj",
         "packagesPath": "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\lektion-4\\01_EntityFramework_DatabaseFirst\\obj\\",
+        "outputPath": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\lektion-4\\01_EntityFramework_DatabaseFirst\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
