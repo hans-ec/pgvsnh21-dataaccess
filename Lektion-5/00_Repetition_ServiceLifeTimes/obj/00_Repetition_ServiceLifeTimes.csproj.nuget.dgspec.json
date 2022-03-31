@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\Lektion-5\\00_Repetition_ServiceLifeTimes\\00_Repetition_ServiceLifeTimes.csproj": {}
+    "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\Lektion-5\\00_Repetition_ServiceLifeTimes\\00_Repetition_ServiceLifeTimes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\Lektion-5\\00_Repetition_ServiceLifeTimes\\00_Repetition_ServiceLifeTimes.csproj": {
+    "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\Lektion-5\\00_Repetition_ServiceLifeTimes\\00_Repetition_ServiceLifeTimes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\Lektion-5\\00_Repetition_ServiceLifeTimes\\00_Repetition_ServiceLifeTimes.csproj",
+        "projectUniqueName": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\Lektion-5\\00_Repetition_ServiceLifeTimes\\00_Repetition_ServiceLifeTimes.csproj",
         "projectName": "00_Repetition_ServiceLifeTimes",
-        "projectPath": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\Lektion-5\\00_Repetition_ServiceLifeTimes\\00_Repetition_ServiceLifeTimes.csproj",
+        "projectPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\Lektion-5\\00_Repetition_ServiceLifeTimes\\00_Repetition_ServiceLifeTimes.csproj",
         "packagesPath": "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\Lektion-5\\00_Repetition_ServiceLifeTimes\\obj\\",
+        "outputPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\Lektion-5\\00_Repetition_ServiceLifeTimes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

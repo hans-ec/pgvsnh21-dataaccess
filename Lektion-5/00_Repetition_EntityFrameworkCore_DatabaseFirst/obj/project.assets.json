@@ -9755,11 +9755,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\Lektion-5\\00_Repetition_EntityFrameworkCore_DatabaseFirst\\00_Repetition_EntityFrameworkCore_DatabaseFirst.csproj",
+      "projectUniqueName": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\Lektion-5\\00_Repetition_EntityFrameworkCore_DatabaseFirst\\00_Repetition_EntityFrameworkCore_DatabaseFirst.csproj",
       "projectName": "00_Repetition_EntityFrameworkCore_DatabaseFirst",
-      "projectPath": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\Lektion-5\\00_Repetition_EntityFrameworkCore_DatabaseFirst\\00_Repetition_EntityFrameworkCore_DatabaseFirst.csproj",
+      "projectPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\Lektion-5\\00_Repetition_EntityFrameworkCore_DatabaseFirst\\00_Repetition_EntityFrameworkCore_DatabaseFirst.csproj",
       "packagesPath": "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\Lektion-5\\00_Repetition_EntityFrameworkCore_DatabaseFirst\\obj\\",
+      "outputPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\Lektion-5\\00_Repetition_EntityFrameworkCore_DatabaseFirst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

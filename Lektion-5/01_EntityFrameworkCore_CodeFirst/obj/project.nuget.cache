@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VcUX709jlgVNES8+QX4PEIJsTbpSY8995N7uZq/jfH9yx8O1igLPGZrsgDjTEFPOxPkJEdqmDeOt+KE3jxRf1g==",
+  "dgSpecHash": "AGsXzkffEynqA5tqL8OrvwfQ1krp6fimINSD0RAiQ+kpC998t8FHSKqA4j7eiBMqiXFyp9bQMnMR1sPz46Pwhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\Lektion-5\\01_EntityFrameworkCore_CodeFirst\\01_EntityFrameworkCore_CodeFirst.csproj",
+  "projectFilePath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\Lektion-5\\01_EntityFrameworkCore_CodeFirst\\01_EntityFrameworkCore_CodeFirst.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

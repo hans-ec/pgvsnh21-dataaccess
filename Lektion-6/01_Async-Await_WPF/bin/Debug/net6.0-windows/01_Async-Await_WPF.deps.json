@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "01_Async-Await_WPF/1.0.0": {
+        "runtime": {
+          "01_Async-Await_WPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01_Async-Await_WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

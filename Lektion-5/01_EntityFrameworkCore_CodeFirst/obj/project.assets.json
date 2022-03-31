@@ -2062,11 +2062,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\Lektion-5\\01_EntityFrameworkCore_CodeFirst\\01_EntityFrameworkCore_CodeFirst.csproj",
+      "projectUniqueName": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\Lektion-5\\01_EntityFrameworkCore_CodeFirst\\01_EntityFrameworkCore_CodeFirst.csproj",
       "projectName": "01_EntityFrameworkCore_CodeFirst",
-      "projectPath": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\Lektion-5\\01_EntityFrameworkCore_CodeFirst\\01_EntityFrameworkCore_CodeFirst.csproj",
+      "projectPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\Lektion-5\\01_EntityFrameworkCore_CodeFirst\\01_EntityFrameworkCore_CodeFirst.csproj",
       "packagesPath": "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HansMattin-Lassei\\Desktop\\undervisning\\pgvsnh21-dataaccess\\Lektion-5\\01_EntityFrameworkCore_CodeFirst\\obj\\",
+      "outputPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\PGVSNH21\\Lektion-5\\01_EntityFrameworkCore_CodeFirst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "txAVnJPGrULlkhC/lMDXGALHsyV8PS/UYyNOB7jyOWc=",
+  "Source": "03_WebApi_WithApiKey",
+  "BasePath": "_content/03_WebApi_WithApiKey",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

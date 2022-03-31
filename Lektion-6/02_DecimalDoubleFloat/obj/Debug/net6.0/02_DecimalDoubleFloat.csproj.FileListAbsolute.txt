@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\PGVSNH21\Lektion-6\02_DecimalDoubleFloat\bin\Debug\net6.0\02_DecimalDoubleFloat.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\PGVSNH21\Lektion-6\02_DecimalDoubleFloat\bin\Debug\net6.0\02_DecimalDoubleFloat.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\PGVSNH21\Lektion-6\02_DecimalDoubleFloat\bin\Debug\net6.0\02_DecimalDoubleFloat.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\PGVSNH21\Lektion-6\02_DecimalDoubleFloat\bin\Debug\net6.0\02_DecimalDoubleFloat.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\PGVSNH21\Lektion-6\02_DecimalDoubleFloat\bin\Debug\net6.0\02_DecimalDoubleFloat.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\PGVSNH21\Lektion-6\02_DecimalDoubleFloat\obj\Debug\net6.0\02_DecimalDoubleFloat.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\PGVSNH21\Lektion-6\02_DecimalDoubleFloat\obj\Debug\net6.0\02_DecimalDoubleFloat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\PGVSNH21\Lektion-6\02_DecimalDoubleFloat\obj\Debug\net6.0\02_DecimalDoubleFloat.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\PGVSNH21\Lektion-6\02_DecimalDoubleFloat\obj\Debug\net6.0\02_DecimalDoubleFloat.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\PGVSNH21\Lektion-6\02_DecimalDoubleFloat\obj\Debug\net6.0\02_DecimalDoubleFloat.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\PGVSNH21\Lektion-6\02_DecimalDoubleFloat\obj\Debug\net6.0\02_DecimalDoubleFloat.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\PGVSNH21\Lektion-6\02_DecimalDoubleFloat\obj\Debug\net6.0\refint\02_DecimalDoubleFloat.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\PGVSNH21\Lektion-6\02_DecimalDoubleFloat\obj\Debug\net6.0\02_DecimalDoubleFloat.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\PGVSNH21\Lektion-6\02_DecimalDoubleFloat\obj\Debug\net6.0\02_DecimalDoubleFloat.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\PGVSNH21\Lektion-6\02_DecimalDoubleFloat\obj\Debug\net6.0\ref\02_DecimalDoubleFloat.dll
