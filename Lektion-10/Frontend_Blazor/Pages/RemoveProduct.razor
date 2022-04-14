@@ -1,0 +1,15 @@
+﻿@page "/products/remove/{artnr}"
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+
+@code {
+    [Parameter]
+    public string artnr { get; set; } = null!;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var result = await Http.DeleteAsync("https://localhost:7094/api/Products/" + artnr);
+        if (result.IsSuccessStatusCode)
+            NavigationManager.NavigateTo("/products");
+    }
+}

@@ -1,0 +1,38 @@
+﻿@page "/products"
+@inject HttpClient Http
+
+<h3>Produkter</h3>
+
+@if(products == null)
+{
+    <p>laddar...</p>
+}
+else
+{
+    foreach(var p in products)
+    {
+        <div class="mb-5">
+            <p><strong>@p.Name (@p.ArticleNumber)</strong></p>
+            <p class="text-muted mb-1"><small>@p.CategoryName</small></p>
+            <p>@p.Price :-</p>
+            <NavLink href="@("products/remove/" + p.ArticleNumber)" class="btn btn-danger">Ta bort</NavLink>
+        </div>
+    }
+}
+
+@code {
+    private Product[]? products;
+
+    protected override async Task OnInitializedAsync()
+    {
+        products = await Http.GetFromJsonAsync<Product[]>("https://localhost:7094/api/Products");
+    }
+
+    public class Product
+    {
+        public string ArticleNumber { get; set; } = null!;
+        public string Name { get; set; } = null!;
+        public decimal Price { get; set; }
+        public string CategoryName { get; set; } = null!;
+    }
+}

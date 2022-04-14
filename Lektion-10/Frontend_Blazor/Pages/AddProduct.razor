@@ -1,0 +1,35 @@
+﻿@page "/products/add"
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+
+<div class="container">
+    <h3>Add New Product</h3>
+    <EditForm Model="@Model" OnSubmit="HandleSubmit">
+        <InputText @bind-Value="Model.ArticleNumber" placeholder="Artikelnummer" class="form-control mb-3" />
+        <InputText @bind-Value="Model.Name" placeholder="Produktens namn" class="form-control mb-3" />
+        <InputNumber @bind-Value="Model.Price" placeholder="Pris (i SEK)" class="form-control mb-3" />
+        <InputText @bind-Value="Model.CategoryName" placeholder="Kategori" class="form-control mb-3" />
+        <button type="submit" class="btn btn-primary">Create</button>
+    </EditForm>
+</div>
+
+@code {
+    public FormModel Model = new();
+
+    public async Task HandleSubmit()
+    {
+        var result = await Http.PostAsJsonAsync("https://localhost:7094/api/Products", Model);
+        if (result.IsSuccessStatusCode)
+            NavigationManager.NavigateTo("/products");
+    }
+
+
+    public class FormModel
+    {
+        public string ArticleNumber { get; set; } = null!;
+        public string Name { get; set; } = null!;
+        public decimal Price { get; set; }
+        public string CategoryName { get; set; } = null!;
+    }
+
+}
